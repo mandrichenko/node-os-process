@@ -1,0 +1,14 @@
+{
+  "name": "node-os-process",
+  "version": "0.0.1",
+  "description": "Node.js: Enables you to search, kill and list local system processes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Mandrichenko <mandrichenko@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csv": "^0.4.6"
+  }
+}
