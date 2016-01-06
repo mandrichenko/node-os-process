@@ -1,5 +1,4 @@
 # Node.js: OS process
-----
 
 Enables you to search, kill and list local system processes.
 
